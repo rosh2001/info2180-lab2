@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>INFO2180 Lab 2</title>
+        <link rel="stylesheet" href="my-styles.css">
+    </head>
+    <body>
+        <div class="container">
+            <header>
+                <img src="myimage.jpg" width= "170em" />  
+                <h1>Ro-Shaun Young's Blog</h1>
+                <p>Science vs Technology</p>
+            </header>
+            <main>
+                <article> 
+                    <h2 class="posttitles">What is Technology?</h2>
+                    <span class="dateauth">October 02, 2021 by Ro-Shaun Young</span><br/><br/>
+                    <img width ="200em" style="float:right; margin: .5em;"src="tech.jpg"/>
+                    <p>Technology is the sum of any techniques, skills, methods, and processes used in the production of goods or services or in the accomplishment of
+                       objectives, such as scientific investigation.We are living in a world where technology plays a crucial role in our everyday life. But before we talk 
+                       bout technology in the presente must be talk about it in the past where we'd go two million years ago where the first technoligical invention were 
+                       the <b>Stone Tool</b> and these can be viewed in the british mueseum. This comes to the sum of What Technology is?.
+                    </p></br/>
+                    <p>The society has been changed with the evolution of technology. Life was burdensome and everyday chores consumed too much of our time, before the advent 
+                       of modern day technology. The access to education, medicine, industry, transportation etc. has been simplified due to development in modern day technology. 
+                       Due to the convenience and efficiency provided by technology, our lives have improved</p>
+
+                </article>
+                <hr/>
+                <article> 
+                    <h2 class="posttitles">Science and Technology</h2>
+                    <span class="dateauth">October 02, 2021 by Ro-Shaun Young</span><br/><br/>
+                    <p>    Science is a systematic enterprise that builds and organizes knowledge in the form of explanations and predictions about nature and the universe. It is the study of nature and behaviour of the physical and natural world through the scientific method. It is also defined as the observation, identification, description, experimental, investigation, and theoretical explanation of natural phenomena.
+                    Technology is the collection of techniques and processes used in the production of goods or services or the accomplishment of objectives such as scientific investigation. It includes methods, systems, and devices which are the result of scientific knowledge being used for practical purposes
+                    </p><br/>
+                    <p>Science encompasses the systematic study of the structure and behaviour of the physical and natural world through observation and experiment, and technology is the application 
+                        of scientific knowledge for practical purposes. Oxford Reference provides more than 210,000 concise definitions and in-depth, specialist encyclopedic entries on the wide range 
+                        of subjects within these broad disciplines. Our coverage comprises authoritative, highly accessible information on the very latest terminology, concepts, theories, techniques, 
+                        people, and organizations relating to all areas of science and technology—from astronomy, engineering, physics, computer science, and mathematics, to life and earth sciences, 
+                        chemistry, environmental science, biology, and psychology. Written by trusted experts for researchers at every level, entries are complemented by illustrative line drawings, 
+                        equations, and charts wherever useful.
+                    </p>
+
+                </article>
+
+            </main>
+            <aside>
+                
+                <section id="about">
+                        <h3>About</h3><br/>
+                        <p>Ro-Shaun Young is a young and vibrant person who find peace in accomplishing his goals. Socialization play a keen part of his life because it helps him to understand and to hav better
+                            communication with his fellow peers. I love to praticipate in sporting activities because it act as a stress reliever for me.
+                        </p>
+                </section>
+                <section id="social">
+                        <h3>Social Media</h3><br/>
+                        <ul>
+                            <li><a href="https://www.facebook.com/roshaun.young">Facebook</a></li>
+                            <li><a href="https://www.instagram.com/thee_sheriff/">Instagram</a></li>
+                        </ul>
+
+                </section>
+                <section id="archives">
+                        <h3>Archives</h3><br/>
+                        <ul>
+                            <li><a href="#">September 2021</a></li>
+                            <li><a href="#">August 2021</a></li>
+                            <li><a href="#">July 2021</a></li>
+                            <li><a href="#">June 2021</a></li>
+                            <li><a href="#">May 2021</a></li>
+                        </ul>
+
+                </section>
+            </aside>
+            <footer>
+                <p>Copyright &copy; 2021, Ro-Shaun Young</p>
+            </footer>
+        </div>
+    </body>
+</html>0
